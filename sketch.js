@@ -9,4 +9,7 @@ function draw() {
   fill(0);
   strokeWeight(3);
   line(100,300,100,110);
+
+  text('🧦', 5,370);
+  text('👞',85, 370);
 }
